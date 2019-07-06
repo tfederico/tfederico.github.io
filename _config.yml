@@ -3,7 +3,7 @@
 # Website settings
 title: Federico Tavella
 description: Federico's blog, use Jekyll and github pages.
-keywords: Federico,tfederico,blog,Jekyll,github,gh-pages
+keywords: Federico,tfederico,blog,github,gh-pages
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://tfederico.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -52,7 +52,7 @@ donation: off  # type 'on'/'off' to choice display donation button at post page 
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # scss
 sass:
