@@ -1,0 +1,58 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: The University of Manchester
+    i18n: company_a
+  desc:
+    detail: I am a PhD student in Computer Science at University of Manchester
+    i18n: company_a_desc
+  date:
+    detail: Jan. 2019
+    i18n: company_a_date
+  job:
+    detail: PhD student
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Vrije Universiteit Amsterdam
+    i18n: company_b
+  desc:
+    detail: I studied at VU Amsterdam as an Erasmus student in Computer Science (Artificial Intelligence)
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2017
+    i18n: company_b_date
+  job:
+    detail: M.Sc. Erasmus student
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Padova
+    i18n: company_c
+  desc:
+    detail: I studied at University of Padova for my M.Sc. in Computer Science (Artificial Intelligence and Cybersecurity)
+    i18n: company_c_desc
+  date:
+    detail: Oct. 2016
+    i18n: company_c_date
+  job:
+    detail: M.Sc. student
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Padova
+    i18n: company_d
+  desc:
+    detail: I studied at University of Padova for my B.Sc. in Computer Science
+    i18n: company_d_desc
+  date:
+    detail: Oct. 2013
+    i18n: company_d_date
+  job:
+    detail: B.Sc. student
+    i18n: company_d_job
+  icon: fa-plus-square

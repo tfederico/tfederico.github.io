@@ -1,0 +1,20 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: DNA storage simulator
+  gh_user: tfederico
+  repo: DNAStorageSimulator
+  img:
+  desc: Java software for simulating the motility of bacteria in a DNA-based storage system
+
+- name: Ghio-CA
+  gh_user: Augugrumi
+  repo: ghioca
+  img: /static/assets/img/landing/ghioca.png
+  desc: Ghio-CA is an Android application for image recognition on photos
+
+- name: CLIPS
+  gh_user: LeafSWE
+  repo: clips
+  img: /static/assets/img/landing/clips.png
+  desc: CLIPS is an Android application for indoor navigation
